@@ -6,8 +6,8 @@ Jets
 Penguins
 Sharks
 3
-23
-16
+0
+0
 What professional football team plays in Pittsburgh?
 5
 Steelers
@@ -16,8 +16,8 @@ Patriots
 Broncos
 Ravens
 0
-23
-16
+0
+0
 What professional baseball team plays in Pittsburgh?
 5
 Cardinals
@@ -26,8 +26,8 @@ Pirates
 Penguins
 Cubs
 2
-23
-14
+0
+0
 What professional basketball team plays in Pittsburgh?
 5
 Heat
@@ -36,8 +36,8 @@ Cavaliers
 Celtics
 No team is in Pittsburgh
 4
-23
-13
+0
+0
 What is the name of the University of Pittsburgh's mascot?
 4
 Nittany Lions
@@ -45,8 +45,8 @@ Panthers
 Steelers
 Cowboys
 1
-23
-15
+0
+0
 Who did the University of Pittsburgh lose to in the 2016 NCAA Basketball Tournament?
 7
 Xavier
@@ -57,5 +57,5 @@ UNC
 Wisconsin
 Kansas
 5
-23
-11
+0
+0
