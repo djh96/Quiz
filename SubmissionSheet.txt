@@ -1,0 +1,10 @@
+Daniel Hodgson
+Assignment 3
+djh96
+https://github.com/djh96/Quiz
+Ben Pratt
+Tuesday 10:00 - 11:50
+Turned in on 03/24/2016
+Yes the program compiles without error.
+Yes the program runs without error.
+No additional comments
