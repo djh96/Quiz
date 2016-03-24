@@ -7,4 +7,5 @@ Tuesday 10:00 - 11:50
 Turned in on 03/24/2016
 Yes the program compiles without error.
 Yes the program runs without error.
-No additional comments
+Text file should have a blank line after the last line of text, as it does in the sample file.  My text file that is uploaded to GitHub has an extra line but it is not shown when opened on GitHub.  For program to be able to run, the extra line must be included.
+
